@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My website
+title: LeoBath's Web page
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  No description.
+  Είναι το πρώτο μου site στο Git.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leobath.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
