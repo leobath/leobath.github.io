@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-freeCodeCamp profile: [www.freecodecamp.org/leobath](https://www.freecodecamp.org/leobath)
+freeCodeCamp profile: [freecodecamp.org](https://www.freecodecamp.org/leobath)
