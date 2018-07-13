@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-[My freecodecamp profile.](https://www.freecodecamp.org/leobath)
+[My freeCodeCamp profile.](https://www.freecodecamp.org/leobath)
