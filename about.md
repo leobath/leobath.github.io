@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-[My freeCodeCamp profile](https://www.freecodecamp.org/leobath)
+[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/leobath/javascript-algorithms-and-data-structures)
